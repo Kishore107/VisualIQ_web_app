@@ -1,0 +1,74 @@
+# Node.js Version
+Node.js >= 18.0.0
+npm >= 8.0.0
+
+# Core Dependencies
+react@18.3.1
+react-dom@18.3.1
+typescript@5.5.3
+vite@5.4.2
+
+# UI and Animation Libraries
+framer-motion@11.12.0
+framer-motion-3d@11.12.0
+@react-three/fiber@8.2.2
+@react-three/drei@9.117.3
+three@0.170.0
+react-tsparticles@2.12.2
+tsparticles@3.7.1
+canvas-confetti@1.9.3
+
+# UI Components and Icons
+lucide-react@0.344.0
+react-dropzone@14.2.3
+
+# Styling
+tailwindcss@3.4.1
+postcss@8.4.35
+autoprefixer@10.4.18
+clsx@2.1.0
+tailwind-merge@2.2.1
+
+# Development Dependencies
+@vitejs/plugin-react@4.3.1
+@types/react@18.3.5
+@types/react-dom@18.3.0
+eslint@9.9.1
+@eslint/js@9.9.1
+eslint-plugin-react-hooks@5.1.0-rc.0
+eslint-plugin-react-refresh@0.4.11
+
+# Environment Setup
+1. Create a .env file in the root directory with:
+VITE_HUGGING_FACE_API_KEY=your_api_key_here
+
+# Installation Steps
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Create and configure .env file
+4. Start development server:
+   ```bash
+   npm run dev
+   ```
+5. For production build:
+   ```bash
+   npm run build
+   ```
+
+# Browser Requirements
+- Modern browser with WebGL support
+- Chrome/Firefox/Safari (latest versions)
+- Support for ES6+ JavaScript features
+
+# Additional Requirements
+- Hugging Face API key for image analysis
+- Stable internet connection for API calls
+- Minimum 4GB RAM recommended
+- Graphics card with WebGL support
+
+# Optional Features
+- Microphone access for voice input
+- Web Share API support for sharing functionality 
