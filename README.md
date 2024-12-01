@@ -6,11 +6,11 @@ Visual IQ is an interactive web application that uses AI to analyze images, gene
 
 ## ✨ Features
 
-- 🖼️ Image upload with drag-and-drop support
-- 🤖 AI-powered image captioning
-- 💬 Interactive Q&A about uploaded images
-- 🌓 Dark/Light theme support
-- 🎨 Interactive 3D animations
+- 🖼️ Image upload with drag-and-drop support.
+- 🤖 AI-powered image captioning.
+- 💬 Interactive Q&A about uploaded images.
+- 🌓 Dark/Light theme support.
+- 🎨 Interactive 3D animations.
 - 🔊 Voice input support.
 - 📱 Responsive design.
 - 📊 Recent analyses history
