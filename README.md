@@ -18,12 +18,12 @@ Visual IQ is an interactive web application that uses AI to analyze images, gene
 
 ## 🛠️ Tech Stack
 
-- **Frontend Framework:** React with TypeScript
-- **3D Graphics:** Three.js, React Three Fiber
-- **Animations:** Framer Motion
-- **Styling:** Tailwind CSS
-- **Build Tool:** Vite
-- **AI Models:** Hugging Face's BLIP and ViLT
+- **Frontend Framework:** React with TypeScript.
+- **3D Graphics:** Three.js, React Three Fiber.
+- **Animations:** Framer Motion.
+- **Styling:** Tailwind CSS.
+- **Build Tool:** Vite.
+- **AI Models:** Hugging Face's BLIP and ViLT.
 
 ## 🚀 Getting Started
 
