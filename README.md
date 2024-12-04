@@ -13,8 +13,8 @@ Visual IQ is an interactive web application that uses AI to analyze images, gene
 - 🎨 Interactive 3D animations.
 - 🔊 Voice input support.
 - 📱 Responsive design.
-- 📊 Recent analyses history
-- 🌐 Share functionality
+- 📊 Recent analyses history.
+- 🌐 Share functionality.
 
 ## 🛠️ Tech Stack
 
